@@ -8,8 +8,8 @@
 - list2
 
 - [x] something
-- [] Finish
-- [] Finish
+- [ ] Finish
+- [ ] Finish
 1. Numbered
 2. List
 
