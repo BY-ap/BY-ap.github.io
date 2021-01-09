@@ -7,8 +7,7 @@
 - [x] CSE100
 - [ ] CSE110
 - [ ] CSE120
-1. Numbered
-2. List
+
 
 **Bold** and _Italic_ and `Code` text
 
@@ -25,33 +24,12 @@ Use `git checkout` to switch to an existing branch
 >This should be a quote
 
 [Go to the last section](#other-programming-languages)
-1111111
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
 
+1. 
+2. 
+3. 
+4.
+5.
 
 # Other Programming Languages
 ```
