@@ -1,8 +1,8 @@
 # Welcome to my github page
 ## my favorite programming language is Java
 
-- This is the list1
-- This is the list2
+- This is CSE110 lab1
+- part3
 
 - [x] CSE100
 - [ ] CSE110
@@ -12,7 +12,10 @@
 
 **Bold** and _Italic_ and `Code` text
 
-[GitHub](http://github.com) and ![CampNor](/campNor.jpg)
+[GitHub](http://github.com)  
+
+This is the home court of my favorite soccer team FC Barcelona
+![CampNor](/campNor.jpg)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
