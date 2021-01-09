@@ -12,7 +12,7 @@
 
 **Bold** and _Italic_ and `Code` text
 
-[GitHub](http://github.com) and ![CampNor](https://www.google.com/search?q=barcelona&sxsrf=ALeKk01ER3fb1KBYV2k7iYb98AjsC3Hsag:1610162001697&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj39JDx8I3uAhVGLKwKHZYGCQQQ_AUoAXoECBUQAw&biw=1500&bih=858&dpr=2#imgrc=LVo4M8rbrtNwYM)
+[GitHub](http://github.com) and ![CampNor](../campNor.jpg)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
